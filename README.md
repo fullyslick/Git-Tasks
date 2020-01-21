@@ -22,3 +22,15 @@
 ![task 6](images/task-6.png)
 
 7. Stop tracking a file from repo. Delete the file using git clean.
+
+8. Create 2 commits that are related to same functionality. Then squash the commits. If necessary change the commit message of the new combined commit.
+
+![task 8](images/task-8.png)
+
+9. Create 3 commits. The first 2 should be related to same functionality. The third should not be related to previous two. Squash the 2 commits that are just behind the third. Instead of `HEAD` use `SHA` of second commit. If necessary change the commit message of the new combined commit.
+
+![task 9](images/task-9.png)
+
+10. Create 2 commits. Drop the first one.
+
+![task 10](images/task-10.png)
